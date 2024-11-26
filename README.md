@@ -9,7 +9,5 @@
 </a>
 </p>
 
-<img align="center" alt="" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-<img align="center" alt="" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="" height="50" width="70" src="https://camo.githubusercontent.com/a37232e5d1c5536ee1d8b7f6529c466ec40fe414d01ff456467219e3372dbffb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667">
+
 
